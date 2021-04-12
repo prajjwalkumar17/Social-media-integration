@@ -1,4 +1,4 @@
-com/rejoin/socialmediaintegration/MainActivity.java
- com.rejoin.socialmediaintegration.MainActivity
 com/rejoin/socialmediaintegration/BuildConfig.java
  com.rejoin.socialmediaintegration.BuildConfig
+com/rejoin/socialmediaintegration/MainActivity.java
+ com.rejoin.socialmediaintegration.MainActivity

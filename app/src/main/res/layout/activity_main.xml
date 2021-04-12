@@ -19,21 +19,24 @@
         android:id="@+id/lottieAnimationView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="#1992F3"
+        android:backgroundTint="#1992F3"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
         app:lottie_rawRes="@raw/social" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/bad_script"
+        android:layout_marginTop="50dp"
         android:text="Integrate Life"
         android:textColor="@color/black"
         android:textSize="34sp"
-        app:layout_constraintBottom_toTopOf=""
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
