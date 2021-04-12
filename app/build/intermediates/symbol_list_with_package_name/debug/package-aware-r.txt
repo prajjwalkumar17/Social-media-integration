@@ -1918,6 +1918,7 @@ id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
 id fade
+id fbsign
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1935,6 +1936,7 @@ id graph_wrap
 id group_divider
 id grouping
 id groups
+id gsign
 id guideline
 id hardware
 id header_title
@@ -2240,7 +2242,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_home
 layout activity_main
+layout activity_signup
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog

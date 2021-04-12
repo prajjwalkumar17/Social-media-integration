@@ -22,6 +22,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.SocialMediaIntegration" >
+        <activity android:name="com.rejoin.socialmediaintegration.Home" />
+        <activity android:name="com.rejoin.socialmediaintegration.signup" />
         <activity android:name="com.rejoin.socialmediaintegration.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

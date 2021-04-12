@@ -1,4 +1,11 @@
-com/rejoin/socialmediaintegration/BuildConfig.java
- com.rejoin.socialmediaintegration.BuildConfig
+com/rejoin/socialmediaintegration/signup.java
+ com.rejoin.socialmediaintegration.signup
+ com.rejoin.socialmediaintegration.signup$1
+ com.rejoin.socialmediaintegration.signup$2
 com/rejoin/socialmediaintegration/MainActivity.java
  com.rejoin.socialmediaintegration.MainActivity
+ com.rejoin.socialmediaintegration.MainActivity$1
+com/rejoin/socialmediaintegration/Home.java
+ com.rejoin.socialmediaintegration.Home
+com/rejoin/socialmediaintegration/BuildConfig.java
+ com.rejoin.socialmediaintegration.BuildConfig
